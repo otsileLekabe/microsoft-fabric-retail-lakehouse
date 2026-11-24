@@ -1,0 +1,14 @@
+transaction_id,store_id,store_city,transaction_timestamp,product_sku,product_name,quantity,unit_price,payment_method,status
+TXN-9001,STR-01,Johannesburg,2026-03-01 09:15:00,SKU-201,Arabica Coffee Beans 1kg,2,240.00,Card,Completed
+TXN-9002,STR-02,Cape Town,2026-03-01 10:05:22,SKU-205,Stainless French Press,1,450.00,Cash,Completed
+TXN-9002,STR-02,Cape Town,2026-03-01 10:05:22,SKU-205,Stainless French Press,1,450.00,Cash,Completed
+TXN-9003,STR-01,Johannesburg,2026-03-01 11:30:10,SKU-208,Electric Burr Grinder,1,1250.00,Card,completed
+,STR-03,Durban,2026-03-01 12:12:45,SKU-201,Arabica Coffee Beans 1kg,3,240.00,EFT,Completed
+TXN-9005,STR-03,Durban,2026-03-01 13:40:00,SKU-210,Insulated Travel Mug,0,320.00,Card,Completed
+TXN-9006,STR-01,Johannesburg,2026-03-02 08:50:15,SKU-201,Arabica Coffee Beans 1kg,4,240.00,Card,Completed
+TXN-9007,STR-02,Cape Town,2026-03-02 10:20:30,SKU-212,Milk Frother Wand,2,195.00,Mobile Pay,Completed
+TXN-9008,STR-04,Pretoria,2026-03-02 14:15:00,SKU-208,Electric Burr Grinder,1,-1250.00,Card,Refunded
+TXN-9009,STR-04,Pretoria,2026-03-02 15:45:12,SKU-205,Stainless French Press,2,450.00,Card,Completed
+TXN-9010,STR-01,Johannesburg,2026-03-03 09:05:00,SKU-210,Insulated Travel Mug,3,320.00,Cash,Completed
+TXN-9011,STR-02,Cape Town,2026-03-03 11:10:45,SKU-201,Arabica Coffee Beans 1kg,5,240.00,Card,COMPLETED
+TXN-9012,STR-03,Durban,2026-03-03 16:00:00,SKU-212,Milk Frother Wand,1,195.00,Card,Completed
